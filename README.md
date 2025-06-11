@@ -1,4 +1,4 @@
-📊 <h2>HR Analytics Project: Understanding and Mitigating Employee Attrition<h2>
+📊 <h2>HR Analytics Project: Understanding and Mitigating Employee Attrition</h2>
 <br> <br>
 completed EDA(Exploratory Data Analysis ) Project where I explored an Employee Attrition dataset using Python and its powerful data libraries!
 
